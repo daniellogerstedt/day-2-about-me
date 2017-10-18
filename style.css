@@ -1,0 +1,26 @@
+/* app styles */
+header {
+  background: #444;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 20px;
+  margine-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+footer {
+  background: #444;
+  color: #fff;
+  text-align: center;
+}
