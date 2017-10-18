@@ -17,6 +17,12 @@ console.log('Dan is how old?', veteran);
 var beer = prompt('Do you think I like beer?');
 console.log('Dan likes beer:', beer);
 
+dogs.toUpperCase();
+hats.toUpperCase();
+games.toUpperCase();
+veteran.toUpperCase();
+beer.toUpperCase();
+
 if (dogs === 'Y' && hats === 'N' && games === 'Y' && veteran === 'Y' && beer === 'Y') {
   alert('Awesome! You know me very well!');
 } else if (dogs === 'Y' || hats === 'N' || games === 'Y' || veteran === 'Y' || beer === 'Y') {
